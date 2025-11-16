@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CleanPulse</string>
+    <string name="app_subtitle">Nettoyeur &amp; Booster</string>
+    
+    <!-- Home Screen -->
+    <string name="clean_now">Nettoyer maintenant</string>
+    <string name="cleanliness">Propreté</string>
+    <string name="analyze">Analyse</string>
+    <string name="boost">Booster</string>
+    <string name="cool_down">Refroidir</string>
+    <string name="history">Historique</string>
+    
+    <!-- Analysis Screen -->
+    <string name="storage_analysis">Analyse du stockage</string>
+    <string name="images">Images</string>
+    <string name="videos">Vidéos</string>
+    <string name="apps">Applications</string>
+    <string name="others">Autres</string>
+    <string name="delete">Supprimer</string>
+    <string name="delete_selected">Supprimer la sélection</string>
+    
+    <!-- Cleaning Screen -->
+    <string name="cleaning">Nettoyage en cours</string>
+    <string name="deep_clean">Nettoyage approfondi</string>
+    <string name="items_deleted">éléments supprimés</string>
+    <string name="cleaning_complete">Nettoyage terminé</string>
+    
+    <!-- Results Screen -->
+    <string name="space_freed">Espace libéré</string>
+    <string name="ram_freed">RAM libérée</string>
+    <string name="recommendations">Recommandations</string>
+    <string name="done">Terminé</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">Paramètres</string>
+    <string name="scheduler">Planificateur</string>
+    <string name="language">Langue</string>
+    <string name="dark_mode">Mode sombre</string>
+    <string name="google_sign_in">Connexion Google</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="contact_us">Nous contacter</string>
+    <string name="logout">Déconnexion</string>
+    
+    <!-- Common -->
+    <string name="loading">Chargement...</string>
+    <string name="error">Erreur</string>
+    <string name="success">Succès</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">OK</string>
+</resources>

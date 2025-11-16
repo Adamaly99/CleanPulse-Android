@@ -1,0 +1,68 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+
+# Firebase configuration (sensitive)
+google-services.json
+google-services-debug.json
+
+# Keystore files (sensitive)
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Environment files (sensitive)
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+app/build/
+.gradle/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Backup files
+*.backup
+*.orig
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Yarn
+yarn.lock
+package-lock.json
