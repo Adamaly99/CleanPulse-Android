@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "numéro_de_projet" : "398958575228",
+    "project_id": "cleanpulse-ebeaa",
+    "storage_bucket": "cleanpulse-ebeaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398958575228:android:608a005bfd9ccc172253f9",
+        "android_client_info": {
+          "nom_du_package": "com.cleanpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhfCOMThZ-TvwFhRg241UVYzs-n5QLoUY"
+        }
+      ],
+      "services" : {
+        "appinvite_service" : {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
